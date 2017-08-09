@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 Hi my name is Sam. I am Hangry and Grumpy.
+=======
+Hi my name is Sam
+==== |  /  ===
+   | | / /
+   | |=  \==== 
+   | | \      /
+\_/  |  \ ====
+
+>>>>>>> 94681c34f3a068edbb0d278d07815565f8f0fe19
+¯\_(ツ)_/¯
+¯\_(ツ)_/¯
+I have no idea what I am doing
